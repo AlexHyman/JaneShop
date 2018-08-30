@@ -27,4 +27,4 @@
   
   
 ### 使用技术：
-HTML + CSS + JavaScript + jQuery1.7.1
+HTML + CSS + JavaScript + jQuery1.7.2
