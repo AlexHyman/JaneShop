@@ -1,5 +1,6 @@
 # JaneShop
-https://alexhyman.github.io/Jay/
+首页：https://alexhyman.github.io/JaneShop/index.html
+详细页：https://alexhyman.github.io/JaneShop/detail.html
 
 
 ### 说明：
