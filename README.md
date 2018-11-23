@@ -1,4 +1,6 @@
 # JaneShop
+https://alexhyman.github.io/Jay/
+
 
 ### 说明：
 根据《锋利的jQuery》第二版第八章制作的购物网站首页和详细页
