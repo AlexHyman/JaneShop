@@ -30,4 +30,4 @@
   
   
 ### 使用技术：
-HTML + CSS + JavaScript + jQuery1.7.2
+HTML + CSS + JavaScript + jQuery
